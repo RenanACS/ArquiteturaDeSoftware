@@ -1,0 +1,5 @@
+node_modules/
+.env
+biblioteca.db
+biblioteca.db-journal
+certificates/
